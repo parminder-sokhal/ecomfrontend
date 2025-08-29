@@ -6,12 +6,12 @@ const DoctorPage = () => {
 
   // Hardcoded doctor data — replace with props or API call later
   const doctor = {
-    name: "Dr. Robin Gupta",
-    designation: "Managing Director",
-    hospital: "Dr. Robin Chest Clinic",
+    name: "name",
+    designation: " Director",
+    hospital: "heading",
     image: "/img/image.png", // put actual image path here
     about:
-      "Dr. Robin Gupta is a highly esteemed pulmonologist with over a decade of rich experience in the field, renowned for his expertise and compassionate patient care. He completed his pulmonology training at GMCH-32 and further honed his skills through stints at prestigious institutions such as Fortis Hospitals, Mohali, and Apollo Hospitals. Dr. Gupta's commitment to advancing medical knowledge is evidenced by his active involvement in various chest societies across India and his pivotal role as a founding member of the Critical Care Society in Panchkula. His dedication to excellence and patient-centric approach have earned him the trust and admiration of countless patients and peers alike. ",
+"ECOM transactions, short for e-commerce transactions, represent the backbone of online commerce. They encompass the buying and selling of goods and services over the Internet, facilitated through an online e-commerce payment gateway.",
   };
 
   return (
@@ -43,14 +43,14 @@ const DoctorPage = () => {
               onClick={() => navigate("/about#qualifications")}
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-md sm:text-lg"
             >
-              View Profile
+              View 
             </button>
-            <button
+            {/* <button
               onClick={() => navigate("/about#qualifications")}
               className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-md sm:text-lg"
             >
               Book Appointment
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

@@ -15,9 +15,12 @@ function Home() {
   return (
     <>
       <VideoPlayHeader />
-      <OurServices />
-      <OurApproach />
+      {/* <OurServices /> */}
+      {/* <OurApproach /> */}
       {/* <SpecialitiesSlider/>    */}
+      <Doctors />
+      <Doctors />
+      <Doctors />
       <Doctors />
       <PatientReview />
       <Treatment />

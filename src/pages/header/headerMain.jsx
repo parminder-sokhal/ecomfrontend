@@ -109,7 +109,7 @@ function HeaderMain() {
             <img
               src="/logo/RobinlogoRemoveBG.png"
               className="h-16"
-              alt="Dr.RobinGupta Logo"
+              alt="Logo"
             />
           </Link>
 

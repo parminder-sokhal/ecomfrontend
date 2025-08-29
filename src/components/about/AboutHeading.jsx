@@ -39,26 +39,18 @@ const AboutHeading = () => {
     <div className="max-w-6xl mx-auto px-4 py-10">
       <div className="py-2">
         <h1 className="text-3xl sm:text-5xl font-bold text-gray-800 mb-2">
-          Dr. Robin Gupta <br />
+          name <br />
         </h1>
         <h2 className="text-2xl sm:text-2xl text-pink-700">
-          Senior consultant, Pulmonology, Paras Health Panchkula. <br />
+         example<br />
         </h2>
         <h2 className="text-xl text-pink-700">
-          MD , FICM, FCCP (USA) More than 12 yrs experience, worked at premium
-          hospitals - GMCH-32, Fortis and has immense experience of handling
-          difficult respiratory cases
+          kjsb gnjsf nvnas,fmbgijsfnj vnajfn fgjkgna jkfnanf onafn
         </h2>
       </div>
 
       <p className="text-gray-700 text-lg mb-6">
-        Dr. Robin Gupta is a highly esteemed pulmonologist with over a decade of
-        rich experience in the field, renowned for his expertise and
-        compassionate patient care. He completed his pulmonology training at
-        GMCH-32 and further honed his skills through stints at prestigious
-        institutions such as Fortis Hospitals, Mohali, and Apollo Hospitals. Dr.
-        Gupta's commitment to advancing medical knowledge is evidenced by his
-        active involvement in various chest societies across India and his
+        ous chest societies across India and his
         pivotal role as a founding member of the Critical Care Society in
         Panchkula. His dedication to excellence and patient-centric approach
         have earned him the trust and admiration of countless patients and peers
